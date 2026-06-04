@@ -62,8 +62,3 @@ Small projects now. Bigger ones coming.
 ---
 
 *"The best time to start building was yesterday. The second best time is now."*
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on
