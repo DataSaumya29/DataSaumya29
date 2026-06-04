@@ -1,6 +1,4 @@
-Hey
-
-<!--# Hey, I'm Saumya 👋
+# Hey, I'm Saumya 👋
 
 ### Aspiring Data Scientist | IIT Madras BS Program
 
