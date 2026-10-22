@@ -2,7 +2,7 @@
 
 ### Aspiring Data Scientist | IIT Madras BS Program
 
-I'm a first-year student in the **BS in Data Science and Applications** program at **IIT Madras** — one of India's most rigorous online degree programs in data science.
+I'm a first-year student in the **BS in Data Science and Applications** program at **IIT Madras** — one of India's most rigorous online degree programs in data science and it's applications.
 
 I'm building from the ground up — strong fundamentals first, real-world skills second, and a career at a top tech company as the destination.
 
